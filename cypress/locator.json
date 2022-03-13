@@ -1,0 +1,25 @@
+{
+  "homepage": {
+    "Managerloginbtn": "body > div.ng-scope > div > div.ng-scope > div > div.borderM.box.padT20 > div:nth-child(3) > button",
+
+    "customerloginbtnelement": "div.ng-scope > div > div.borderM.box.padT20 > div:nth-child(1) > button"
+  },
+
+  "customerPage": {
+    "customerBtnPanel": "body > div.ng-scope > div > div.ng-scope > div > div.center > button:nth-child(1)",
+    "customerFirstName": "body > div.ng-scope > div > div.ng-scope > div > div.ng-scope > div > div > form > div:nth-child(1) > input",
+
+    "customerLastName": "body > div.ng-scope > div > div.ng-scope > div > div.ng-scope > div > div > form > div:nth-child(2) > input",
+
+    "customerPostalCode": "body > div.ng-scope > div > div.ng-scope > div > div.ng-scope > div > div > form > div:nth-child(3) > input",
+
+    "addCustomerbtn": "body > div.ng-scope > div > div.ng-scope > div > div.ng-scope > div > div > form > button"
+  },
+
+  "openAccountPage": {
+    "openAccountDropDown": "body > div.ng-scope > div > div.ng-scope > div > div.center > button:nth-child(2)",
+    "customerNameDropDown": "#userSelect",
+    "currencyDropDown": "#currency",
+    "processBtn": "button[type='submit']"
+  }
+}
